@@ -9,7 +9,7 @@ Please follow the steps to use the codes in this repo:
 1. Download pre-trained models in the models folder and place these models (relu1_1, relu2_1, relu3_1, relu4_1, relu5_1, and vgg_normalised.t7) within the models folder.
 2. 
 
-'''
+```
 cd fo
 
-'''
+```
