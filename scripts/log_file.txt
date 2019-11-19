@@ -1,0 +1,8 @@
+vv-- b'2019-05-15 12:52:44' : TableauRestApiConnection28 add_user_by_username started --------vv
+     2019-05-15 12:52:44 : Adding smaines@encore.corp.root
+  vv-- b'2019-05-15 12:52:44' : TableauRestApiConnection28 send_add_request started --------vv
+       2019-05-15 12:52:44 : Request POST  https://bi.lionsgate.com/api/2.8/sites/2bc9d5f9-fdff-4715-98a6-0c4edb213961/users
+       2019-05-15 12:52:44 : Request XML: <tsRequest><user name="smaines@encore.corp.root" siteRole="Interactor" /></tsRequest>
+       2019-05-15 12:52:44 : Response is of type <class 'bytes'>
+  ^^-- b'2019-05-15 12:52:44' : TableauRestApiConnection28 send_add_request ended --------^^
+^^-- b'2019-05-15 12:52:44' : TableauRestApiConnection28 add_user_by_username ended --------^^
