@@ -15,4 +15,4 @@ Please follow the steps below to use the codes in this repo:
 4. The output "bird-water.jpg" will be saved in the ***output*** folder
 
 
-*Tested on AWS Deep Learning AMI (Amazon Linus) instance
+*Tested on AWS Deep Learning AMI (Amazon Linus) instance and Windows 7 virtual environment
