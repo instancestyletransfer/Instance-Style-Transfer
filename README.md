@@ -7,8 +7,10 @@ We hightly encourage users to create a virtual environment to run the code in th
 
 Please follow the steps to use the codes in this repo:
 1. run `pip install -r requirements.txt` to install the necessary packages
-2. Download pre-trained models in the models folder and place these models (relu1_1, relu2_1, relu3_1, relu4_1, relu5_1, and vgg_normalised.t7) within the models folder.
-3. For example, if users want to transfer the style of the "water.jpg" image in the style_images folder to the bird in "bird.jpg" in the content_images folder, run
+2. Download pre-trained models in the "models" folder and place these models (relu1_1, relu2_1, relu3_1, relu4_1, relu5_1, and vgg_normalised.t7) within the "models" folder.
+3. For example, if users want to transfer the style of the "water.jpg" image in the "style_images" folder to the bird in "bird.jpg" in the "content_images" folder, run
 
 `python instance_style_transfer.py .//content_images//bird.jpg .//style_images//water.jpg`
+
+4. The output "bird-water.jpg" will be saved in the "output" folder
 
