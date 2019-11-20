@@ -3,3 +3,8 @@ numpy==1.16.1
 scikit-image==0.16.2
 ortools
 scipy==1.1.0
+keras==2.2.4
+IPython==6.4.0
+matplotlib==2.2.2
+colorsys
+collections
