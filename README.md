@@ -19,4 +19,4 @@ Please follow the steps below to use the codes in this repo:
 
 
 
-*Tested on AWS Deep Learning AMI (Amazon Linus) instance, MacBook Air macOS virtual environment, and Windows 7 virtual environment*
+*The steps have been tested on AWS Deep Learning AMI (Amazon Linus) instance, MacBook Air macOS virtual environment, and Windows 7 virtual environment*
