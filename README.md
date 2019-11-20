@@ -2,7 +2,7 @@
 
 This repo hosts the code for the paper, A Method for Arbitrary Instance Style Transfer.
 
-We hightly encourage users to create a virtual environment to run the code in this repo. In addition, please clone this repo within a folder rather than on your desktop (i.e. ./Desktop/.../Instance-Style-Transfer) because users will download pre-trained models.
+We hightly encourage users to create a virtual environment to run the code in this repo. In addition, please clone this repo within a folder rather than on your desktop (i.e. ./Desktop/.../Instance-Style-Transfer-master) because users will download pre-trained models.
 
 
 Please follow the steps below to use the codes in this repo:
@@ -19,4 +19,4 @@ Please follow the steps below to use the codes in this repo:
 
 
 
-*Tested on AWS Deep Learning AMI (Amazon Linus) instance and Windows 7 virtual environment*
+*Tested on AWS Deep Learning AMI (Amazon Linus) instance, MacBook Air macOS virtual environment, and Windows 7 virtual environment*
