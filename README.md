@@ -4,7 +4,7 @@ This repo hosts the code for the paper, A Method for Arbitrary Instance Style Tr
 
 Stats of our method:
 1. Space of the entire folder (after downloading all the pre-trained models and removing all the zip files): 986MB
-2. Run Time: less than 1 min on all three types of computer specified at the bottom
+2. Run Time: less than 1 min on all three types of machines specified at the bottom
 
 We hightly encourage users to create a virtual environment to run the code in this repo. In addition, please clone this repo to a folder rather than putting the package on your desktop (i.e. ./Desktop/.../Instance-Style-Transfer-master) because users will download pre-trained models.
 
