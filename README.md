@@ -17,6 +17,6 @@ Please follow the steps below to use the codes in this repo:
 
 `python instance_style_transfer.py .//content_images//bird.jpg .//style_images//water.jpg`
 
-4. The output "bird-water.jpg" will be saved in the ***output*** folder
+4. The output "bird_water.jpg" will be saved in the ***output*** folder
 
 
