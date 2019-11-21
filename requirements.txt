@@ -1,5 +1,5 @@
 tensorflow==1.14.0
-numpy==1.16.1
+numpy==1.14.5
 scikit-image==0.16.2
 ortools
 scipy==1.1.0
