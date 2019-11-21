@@ -5,6 +5,7 @@ import math
 import numpy as np
 import skimage.io
 import matplotlib
+matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
 import trace
 import tensorflow as tf
