@@ -8,6 +8,7 @@ Stats of our method:
 
 We hightly encourage users to create a virtual environment to run the code in this repo. In addition, please clone this repo to a folder rather than putting the package on your desktop (i.e. ./Desktop/.../Instance-Style-Transfer-master) because users will download pre-trained models.
 
+*The steps below have been tested on AWS Deep Learning AMI (Amazon Linus) instance - python 3.6.5, MacBook Air macOS virtual environment - python 3.6.4, and Windows 7 virtual environment - python 3.6.5*
 
 Please follow the steps below to use the codes in this repo:
 1. run `pip install -r requirements.txt` to install the necessary packages
@@ -19,8 +20,3 @@ Please follow the steps below to use the codes in this repo:
 4. The output "bird-water.jpg" will be saved in the ***output*** folder
 
 
-
-
-
-
-*The steps have been tested on AWS Deep Learning AMI (Amazon Linus) instance - python 3.6.5, MacBook Air macOS virtual environment - python 3.6.4, and Windows 7 virtual environment - python 3.6.5*
