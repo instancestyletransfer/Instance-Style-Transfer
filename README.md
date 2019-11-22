@@ -8,7 +8,7 @@ Stats of our method:
 
 We hightly encourage users to create a virtual environment to run the code in this repo. In addition, please clone this repo to a folder rather than putting the package on your desktop (i.e. ./Desktop/.../Instance-Style-Transfer-master) because users will download pre-trained models.
 
-*The steps below have been tested on AWS Deep Learning AMI (Amazon Linus) instance - python 3.6.5, MacBook Air macOS virtual environment - python 3.6.4, and Windows 7 virtual environment - python 3.6.5*
+*The steps below have been tested on AWS Deep Learning AMI (Amazon Linus) instance - python 3.6.5, MacBook Air macOS virtual environment - python 3.6.4, and Windows 7 virtual environment - python 3.6.5. However, when testing on Windows 10, there is package incompatibility issue that is unlikely to be resolved before the deadline. We will take on this issue as future work.*
 
 Please follow the steps below to use the codes in this repo:
 1. run `pip install -r requirements.txt` to install the necessary packages
